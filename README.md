@@ -13,7 +13,6 @@ Proteger, restaurar y promover el uso sostenible de los ecosistemas terrestres, 
 
 ![images (1)](https://user-images.githubusercontent.com/114906901/201604003-05feecda-6367-4541-bcf7-2a6bd85dd829.jpeg)
 
- ![images](https://user-images.githubusercontent.com/114906901/201604110-72de0416-bed file:///home/asir/Descargas/descarga.jpeg
-
-
 ![images](https://user-images.githubusercontent.com/114906901/201604193-1706a684-50bf-470d-981a-b8a4aaa9246a.jpeg)
+
+![images](https://user-images.githubusercontent.com/114906901/201604404-28152815-ef63-4da9-b326-9d0b8447eb4f.jpeg)
