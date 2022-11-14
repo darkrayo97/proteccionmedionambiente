@@ -1,6 +1,7 @@
 ## ¿Qué es la protección en el medio ambiente?
 Comprende todas las actividades que tienen como principal objetivo la prevención, reducción y eliminación de la contaminación y cualquier degradación del medio ambiente.
-![images (2)](https://user-images.githubusercontent.com/114906901/201603701-9f29c150-40d3-4bb6-b002-611f59ec6ccd.jpeg)## ¿Cuáles son los riesgos ambientales?
+
+![images (2)](https://user-images.githubusercontent.com/114906901/201603701-9f29c150-40d3-4bb6-b002-611f59ec6ccd.jpeg)
 
 ## ¿Cuáles son los riesgos ambientales?
 Riesgo ambiental es la posibilidad de que se produzca un suceso de orden catastrófico en el medio ambiente natural o social debido a un fenómeno natural o a una acción humana.
@@ -9,6 +10,7 @@ Riesgo ambiental es la posibilidad de que se produzca un suceso de orden catastr
 
 ## ¿Cuáles son los objetivos de la protección del medio ambiente?
 Proteger, restaurar y promover el uso sostenible de los ecosistemas terrestres, el manejo sostenible de los bosques, combatir la desertificación, y detener y revertir la degradación de la tierra y detener la pérdida de biodiversidad.
+
 ![images](https://user-images.githubusercontent.com/114906901/201604193-1706a684-50bf-470d-981a-b8a4aaa9246a.jpeg)
 
 ## ¿Cómo podemos garantizar la protección del medio ambiente?
